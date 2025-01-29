@@ -18,6 +18,9 @@ public class AirplaneTest {
                 300,"Kerosen",150);
         avion3.prezentAirplane();
 
+        //am creat al doilea branch
+
+
     }
 
 }
